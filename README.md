@@ -1,2 +1,3 @@
 # hello-world
-A test repo for coursera course
+Hallooo there
+This is for the purpose of learning R in the coursera.
